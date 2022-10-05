@@ -1,0 +1,4 @@
+# language_evolution (updated 10/05/2022)
+Greetings! There are three files here. "Raw_data_updated" contains the individual level data regarding whether the most inclusive label (that one could come up with) contains MAMMAL, BIRD, and/or WUG. This information is stored in a separate column “most_inclusive_label”, with values M, MB, or MBW. Demographic variables "education" and "age" are both in years. 
+The "variation_on_animal_updated" file contains tallied counts of the values of "most_inclusive_label", grouped by languages. These data are used to make Figure 3 in the manuscript.
+The "population level data" file contains additional information of different ethno-linguistic groups. Note that not there's a lot of missing information here and not all languages are used in the analysis of this project.
